@@ -71,3 +71,8 @@ tmp/
 .project
 .classpath
 /gradle
+
+
+env
+.mypy_cache
+
